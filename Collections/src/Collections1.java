@@ -1,3 +1,4 @@
+import java.util.ArrayList;
 
 public class Collections1 {
 
@@ -6,6 +7,7 @@ public class Collections1 {
 		
 		
 		
+		ArrayList col = new ArrayList();
 		
 		
 		
